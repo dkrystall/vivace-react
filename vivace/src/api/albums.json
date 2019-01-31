@@ -146,11 +146,13 @@
         "tracks": [
             {
                 "id": 1,
-                "name": "OH ONE TO FIVE"
+                "name": "OH ONE TO FIVE",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/repathportal.ontometrics.com/03+-+Imrovisation+No.1.mp3"
             },
             {
                 "id": 2,
-                "name": "POST HOC, ERGO PROPTER HOC"
+                "name": "POST HOC, ERGO PROPTER HOC",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/repathportal.ontometrics.com/03+-+Imrovisation+No.1.mp3"
             },
             {
                 "id": 3,
@@ -223,7 +225,8 @@
         "tracks": [
             {
                 "id": 1,
-                "name": "Grigoaras Dinicu:  Hora Staccato"
+                "name": "Grigoaras Dinicu:  Hora Staccato",
+                "sampleUrl": "http://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3"
             },
             {
                 "id": 2,

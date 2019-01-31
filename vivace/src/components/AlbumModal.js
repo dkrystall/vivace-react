@@ -1,13 +1,22 @@
-import React from "react";
-import {
-  Button,
-  Modal,
-  ModalHeader,
-  ModalBody,
-  ModalFooter,
-  UncontrolledCollapse
-} from "reactstrap";
-import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
+import React, {Fragment} from "react";
+import {Button, Modal, ModalBody, ModalFooter, ModalHeader, UncontrolledCollapse} from "reactstrap";
+import {IoIosArrowDown, IoIosArrowUp} from "react-icons/io";
+import AudioPlayback from "./AudioPlayback";
+import ReduxConnectBuilder from "../utils/ReduxConnectBuilder";
+import {stopPlayback} from "../redux/actions/audio-playback";
+
+const styles = {
+  playback: {
+    marginLeft: 8
+  }
+};
+
+
+const TrackOutput = ({track}) =>
+    <Fragment>
+      {track.id} {track.id && " - "} {track.name}
+      {track.sampleUrl && <AudioPlayback url={track.sampleUrl} style={styles.playback} id={track.id} showVolumeControl={false}/>}
+    </Fragment>;
 
 class AlbumModal extends React.Component {
   state = {
@@ -33,6 +42,10 @@ class AlbumModal extends React.Component {
       castArrowStatus: !this.state.castArrowStatus
     });
   };
+
+  componentWillUnmount() {
+    this.props.stopPlayback();
+  }
 
   render() {
     return (
@@ -79,8 +92,8 @@ class AlbumModal extends React.Component {
                           {this.props.modalData.tracks && (
                             <ol>
                               {this.props.modalData.tracks.map(track => (
-                                <li style={{ listStyleType: "none" }}>
-                                  {track.id} {track.id && " - "} {track.name}
+                                <li style={{ listStyleType: "none" }} key={track.id}>
+                                    <TrackOutput track={track}/>
                                 </li>
                               ))}
                             </ol>
@@ -155,4 +168,4 @@ class AlbumModal extends React.Component {
   }
 }
 
-export default AlbumModal;
+export default new ReduxConnectBuilder(AlbumModal).addActionCreator('stopPlayback', stopPlayback).build();
