@@ -212,7 +212,7 @@
         "image_url": "img/albums/ArthurCover494.jpg",
         "itunes": "https://itunes.apple.com/us/album/arthur-gleghorn-art-gleghorn/id815792227",
         "description": "This legendary musician, formerly a member of the Royal Philharmonic under Thomas Beecham in the 1930's, moved to Los Angeles in the late '40's.   He joined the MGM staff orchestra as principal flute in 1950 until the staff orchestra contracts ended in 1960, when he free-lanced at MGM and all of the other studio orchestras in Hollywood where he was first flute on most movies and record dates until he retired in 1973. <br/> Now, for the first time he is featured in recital and orchestral excerpts from the 1950's and '60's from private recordings.",
-        "buy_link": "http://ww9.aitsafe.com/cf/add.cfm?userid=B195497&product=Thelonious+LP&price=19.99",
+        "buy_link": "",
         "viv_no": "VIV 8804",
         "cast": [
             {
@@ -647,8 +647,8 @@
         "id": 9,
         "cd_name": "Peter Serkin - JS Bach",
         "image_url": "img/albums/8808Cover.gif",
-        "itunes": "https://itunes.apple.com/us/album/arthur-gleghorn-art-gleghorn/id815792227",
-        "description": "Peter Serkin plays bach",
+        "itunes": "",
+        "description": "Peter Serkin performs the Lute-Cembalo Suit in C Minor, Partita No. 6 in E Minor, and the Goldberg Variations on this 2-disc album.",
         "buy_link": "http://ww9.aitsafe.com/cf/add.cfm?userid=B195497&product=Peter+Serkin+-+JS+Bach&price=16.99",
         "viv_no": "VIV 8808",
         "cast": [

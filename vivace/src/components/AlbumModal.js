@@ -145,9 +145,6 @@ class AlbumModal extends React.Component {
             <a href={this.props.modalData.buy_link}>
               <Button>Buy</Button>
             </a>
-            <a href={this.props.modalData.itunes}>
-              <Button>iTunes</Button>
-            </a>
           </ModalFooter>
         </Modal>
       </div>
