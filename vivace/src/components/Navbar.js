@@ -21,7 +21,7 @@ class Navbar extends React.Component {
               alt="VivLogo goes here"
             />
           </NavLink>
-          <div><h3>Vivace Records - A division of <a href="www.k2b2.com">K2B2 Records</a></h3></div>
+          <div><h3>Vivace Records - A division of <a href="https://www.k2b2.com" target="_">K2B2 Records</a></h3></div>
 
           <div
             className="collapse navbar-collapse justify-content-end"
@@ -39,9 +39,9 @@ class Navbar extends React.Component {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="btn green nav-link" to="/artists">
+                <i className="btn green nav-link" to="/artists">
                   Artists
-                </NavLink>
+                </i>
               </li>
             </ul>
           </div>

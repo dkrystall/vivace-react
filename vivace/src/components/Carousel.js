@@ -3,8 +3,8 @@ import React from "react";
 const data = require("../api/albums.json"); // forward slashes will depend on the file location
 class Carousel extends React.Component {
   state = {
-    caro1: 0,
-    caro2: 0
+    caro1: 1,
+    caro2: 1
   };
 
   componentDidMount() {
@@ -51,7 +51,7 @@ class Carousel extends React.Component {
             <div className="carousel-caption d-none d-md-block">
               <img
                 className="d-block img-fluid"
-                src={data[data.length - 1].image_url}
+                src={data[0].image_url}
                 alt="First slide"
                 style={{
                   position: "relative",
@@ -60,8 +60,8 @@ class Carousel extends React.Component {
                   height: "30vh"
                 }}
               />
-              <h2>{data[data.length - 1].cd_name}</h2>
-              <p>{data[data.length - 1].description}</p>
+              <h2>{data[0].cd_name}</h2>
+              <p>{data[0].description}</p>
             </div>
           </div>
           <div className="carousel-item" style={{ height: "50vh" }}>

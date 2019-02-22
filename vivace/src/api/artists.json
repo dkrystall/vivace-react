@@ -1,20 +1,30 @@
 [
     {
-    "id":1,
-    "name":"BUELL NEIDLINGER",
-    "instruments": ["Bass", "Cello"],
-    "image_url":"#",
-    "short_bio":"",
-    "featured_cds":[1,4,6],
-    "discography": null
+        "id":0,
+        "name":"PETER SERKIN",
+        "instruments": ["Piano"],
+        "image_url":"#",
+        "bio":"",
+        "featured_cds":[2,5],
+        "discography": null
     },
     {
-    "id":2,
-    "name":"MARTY KRYSTALL",
-    "instruments": ["Bass Clarinet", "Tenor Saxophone"],
-    "image_url":"#",
-    "bio":"",
-    "featured_cds":[2,5],
-    "discography": null
+        "id":1,
+        "name":"BUELL NEIDLINGER",
+        "instruments": ["Bass", "Cello"],
+        "image_url":"#",
+        "short_bio":"",
+        "featured_cds":[1,4,6],
+        "discography": null
+    },
+    {
+        "id":2,
+        "name":"MARTY KRYSTALL",
+        "instruments": ["Bass Clarinet", "Tenor Saxophone"],
+        "image_url":"#",
+        "bio":"",
+        "featured_cds":[2,5],
+        "discography": null
     }
+   
 ]

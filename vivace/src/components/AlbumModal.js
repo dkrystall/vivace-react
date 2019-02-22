@@ -103,7 +103,7 @@ class AlbumModal extends React.Component {
 
                       <div id="toggler2">
                         <div onClick={this.toggleCastArrow}>
-                          Cast
+                          Personnel
                           <span style={{ float: "right" }}>
                             {this.state.castArrowStatus ? (
                               <IoIosArrowUp />
@@ -132,7 +132,7 @@ class AlbumModal extends React.Component {
                       <hr />
                       <div id="toggler3">
                         <div onClick={this.toggleDescArrow}>
-                          Description
+                          Notes
                           <span style={{ float: "right" }}>
                             {this.state.descArrowStatus ? (
                               <IoIosArrowUp />

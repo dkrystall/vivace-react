@@ -25,7 +25,7 @@ class Catalog extends React.Component {
 
   render() {
     var data = require("../api/albums.json"); // forward slashes will depend on the file location
-
+    
     return (
       <div>
         <div className="gallery-portfolio">

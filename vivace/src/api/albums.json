@@ -1,5 +1,232 @@
 [
-  
+    {
+        "id": 9,
+        "cd_name": "Peter Serkin - JS Bach",
+        "image_url": "img/albums/8808Cover.gif",
+        "itunes": "https://itunes.apple.com/us/album/arthur-gleghorn-art-gleghorn/id815792227",
+        "description": "A Two Disc set of Peter Serkin performing bach.",
+        "buy_link": "http://ww9.aitsafe.com/cf/add.cfm?userid=B195497&product=Peter+Serkin+-+JS+Bach&price=16.99",
+        "viv_no": "VIV 8808",
+        "cast": [
+            {
+                "name": "Peter Serkin",
+                "role": "Piano"
+            }
+        ],
+        "tracks": [
+            {
+                "id": null,
+                "name": "Disc One"
+            },
+            {
+                "id": null,
+                "name": "Lute-Cembalo Suit in C Minor"
+            },
+            {
+                "id": 1,
+                "name": "Prelude",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/01+-+Prelude_+Lute+Cembalo+Suite.mp3"
+            },
+            {
+                "id": 2,
+                "name": "Fugue",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/02+-+Fugue_+Lute+Cembalo+Suite.mp3"
+            },
+            {
+                "id": 3,
+                "name": "Sarabande",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/03+-+Sarabane_+Lute+Cembalo+Suite.mp3"
+            },
+            {
+                "id": 4,
+                "name": "Gigue - Double",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/04+-+Gigue_+Lute+Cembalo+Suite.mp3"
+            },
+            {
+                "id": null,
+                "name": "Partita No. 6 in E Minor"
+            },
+            {
+                "id": 5,
+                "name": "Toccata",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/05+-+Toccata_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 6,
+                "name": "Allemande",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/06+-+Allemande_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 7,
+                "name": "Correntea",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/07+-+Corrente_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 8,
+                "name": "Air",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/08+-+Air_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 9,
+                "name": "Sarabande",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/09+-+Sarabande_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 10,
+                "name": "Tempo di gavotta",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/10+-+Tempo+di+gavotta_+Partita+No.+6.mp3"
+            },
+            {
+                "id": 11,
+                "name": "Gigue",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Serkin+Bach++previews/Bach_+CD1++Previews-Lute+Suite%2CPartita+No.+6/11+-+Gigue_+Partita+No.+6.mp3"
+            },
+            {
+                "id": null,
+                "name": "Disc Two"
+            },
+            {
+                "id": null,
+                "name": "Goldberg Vatiations"
+            },
+            {
+                "id": 1,
+                "name": "Aria"
+            },
+            {
+                "id": 2,
+                "name": "Variatio 1"
+            },
+            {
+                "id": 3,
+                "name": "Variatio 2"
+            },
+            {
+                "id": 4,
+                "name": "Variato 3 Canone all' Unisuono"
+            },
+            {
+                "id": 5,
+                "name": "Variatio 4"
+            },
+            {
+                "id": 6,
+                "name": "Variatio 5"
+            },
+            {
+                "id": 7,
+                "name": "Variatio 6 Canone alla Seconda"
+            },
+            {
+                "id": 8,
+                "name": "Variatio 7"
+            },
+            {
+                "id": 9,
+                "name": "Variatio 8"
+            },
+            {
+                "id": 10,
+                "name": "Variatio 9 alla Terza."
+            },
+            {
+                "id": 11,
+                "name": "Variatio 10 Fuegetta"
+            },
+            {
+                "id": 12,
+                "name": "Variatio 11"
+            },
+            {
+                "id": 13,
+                "name": "Variatio 12 Canone alla Quarta"
+            },
+            {
+                "id": 14,
+                "name": "Variatio 13"
+            },
+            {
+                "id": 15,
+                "name": " Variatio 14"
+            },
+            {
+                "id": 16,
+                "name": "Variatio 15 Canone alla Quinta"
+            },
+            {
+                "id": 17,
+                "name": "Variatio 16 Ouverture"
+            },
+            {
+                "id": 18,
+                "name": "Variatio 17"
+            },
+            {
+                "id": 19,
+                "name": "Variatio 18 Canone alla Sexta"
+            },
+            {
+                "id": 20,
+                "name": "Variatio 19"
+            },
+            {
+                "id": 21,
+                "name": "Variation 20"
+            },
+            {
+                "id": 22,
+                "name": "Variatio 21 Canone alla Settinma"
+            },
+            {
+                "id": 23,
+                "name": "Variatio 22"
+            },
+            {
+                "id": 24,
+                "name": "Variatio 23"
+            },
+            {
+                "id": 25,
+                "name": "Variatio 24 Canone all' Ottava"
+            },
+            {
+                "id": 26,
+                "name": "Variatio 25"
+            },
+            {
+                "id": 27,
+                "name": "Variatio 26"
+            },
+            {
+                "id": 28,
+                "name": "Variatio 27 Canone alla Nona"
+            },
+            {
+                "id": 29,
+                "name": "Variatio 28"
+            },
+            {
+                "id": 30,
+                "name": "Variatio 29"
+            },
+            {
+                "id": 31,
+                "name": "Variatio 30 Quodlibet"
+            },
+            {
+                "id": 32,
+                "name": "Aria"
+            }
+
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "by": "",
+                "text": ""
+            }
+        ]
+    },
     {
         "id": 1,
         "cd_name": "Hovhaness - Alder String Quartet",
@@ -34,12 +261,11 @@
             {
                 "id": 1,
                 "name": "FOUR BAGATELLES Op.30 - Andante",
-                "artist": ""
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Hovhannes+audio/Hovannes+Previews+MP3s/03+-+Four+Bagatelles+-+3.mp3"
             },
             {
                 "id": 2,
-                "name": "Allegro Molto",
-                "artist": ""
+                "name": "Allegro Molto"
             },
             {
                 "id": 3,
@@ -69,7 +295,7 @@
             {
                 "id": 8,
                 "name": "SONATA FOR VIOLONCELLO AND PIANO Op.255 -Andante espressivo",
-                "artist": ""
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Hovhannes+audio/Hovannes+Previews+MP3s/10+-+Sonata+for+Cello+and+Piano-3rd+mvt.mp3"
             },
             {
                 "id": 9,
@@ -84,7 +310,7 @@
             {
                 "id": 11,
                 "name": "TRIO Op.3 Dedicated to Jean Sibelius - Allegro moderato",
-                "artist": ""
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Hovhannes+audio/Hovannes+Previews+MP3s/11+-+Trio+I+for+violin%2C+cello+and+piano-1st+mvt.mp3"
             },
             {
                 "id": 12,
@@ -146,13 +372,11 @@
         "tracks": [
             {
                 "id": 1,
-                "name": "OH ONE TO FIVE",
-                "sampleUrl": "https://s3-us-west-2.amazonaws.com/repathportal.ontometrics.com/03+-+Imrovisation+No.1.mp3"
+                "name": "OH ONE TO FIVE"
             },
             {
                 "id": 2,
-                "name": "POST HOC, ERGO PROPTER HOC",
-                "sampleUrl": "https://s3-us-west-2.amazonaws.com/repathportal.ontometrics.com/03+-+Imrovisation+No.1.mp3"
+                "name": "POST HOC, ERGO PROPTER HOC"
             },
             {
                 "id": 3,
@@ -226,7 +450,7 @@
             {
                 "id": 1,
                 "name": "Grigoaras Dinicu:  Hora Staccato",
-                "sampleUrl": "http://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_2MG.mp3"
+                "sampleUrl": ""
             },
             {
                 "id": 2,
@@ -273,27 +497,53 @@
                 "name": "D. Galli: Tre Gigi"
             },
             {
-                "id": 4,
+                "id": null,
                 "name": "J.S. Bach: Suite 1"
             },
             {
-                "id": 5,
-                "name": "J.S. Bach: Suite 5 Courante"
+                "id":4,
+                "name":"Allemande",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/07+-+7+Bach+Suite+1+Allemande.mp3"
             },
             {
-                "id": 6,
-                "name": "J.S. Bach: Suite 2 Sarabande"
+                "id":5,
+                "name":"Courante",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/08+-+8+Bach+Suite+1+Courante.mp3"
             },
             {
-                "id": 7,
-                "name": "H. Nichols: Lady Sings The Blues"
+                "id":6,
+                "name":"Sarabande",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/09+-+9+Bach+Suite+1+Sarabande.mp3"
             },
             {
-                "id": 8,
-                "name": "H. Cowell: Gravely and Vigourously, In memorium JFK"
+                "id":7,
+                "name":"Minuet",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/10+-+10+Bach+Suite+Minuet+1+_+2.mp3"
+            },
+            {
+                "id":8,
+                "name":"Gigue",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/11+-+11+Bach+Suite+1+Gigue.mp3"
             },
             {
                 "id": 9,
+                "name": "J.S. Bach: Suite 5 Courante",
+                "sampleUrl":"https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Cello+Cafe/Cello+Cafe+MP3+Previews/12+-+12+Bach+Suite+5+Courante.mp3"
+            },
+            {
+                "id": 10,
+                "name": "J.S. Bach: Suite 2 Sarabande"
+            },
+            {
+                "id": 11,
+                "name": "H. Nichols: Lady Sings The Blues"
+            },
+            {
+                "id": 12,
+                "name": "H. Cowell: Gravely and Vigourously, In memorium JFK"
+            },
+            {
+                "id": 13,
                 "name": "J. Garcia: Ripple"
             }
         ],
@@ -349,17 +599,63 @@
         ],
         "tracks": [
             {
-                "id": 1,
+                "id": null,
                 "name": "Anton Werbern: Quartet Op.22"
             },
             {
+                "id": 1,
+                "name": "Sehr Massig",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/01+-+Webern+Qt+Op.22-Serhr+Massig.mp3"
+            },
+            {
                 "id": 2,
+                "name": "Sehr Schwungvoll",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/02+-+Webern+Qt+Op22-Sehr+Schwungvoll.mp3"
+            },
+            {
+                "id": null,
                 "name": "Three Improvisations For Tenor Saxophone and Piano"
             },
             {
                 "id": 3,
+                "name": "Number One",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/03+-+Imrovisation+No.1.mp3"
+            },
+            {
+                "id": 4,
+                "name": "Number Two",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/04+-+Improvisation+No.2.mp3"
+            },
+            {
+                "id": 5,
+                "name": "Number Three",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/05+-+Improvisation+No.3.mp3"
+            },
+            {
+                "id": null,
                 "name": "Brahms: Clarinet Quintet Op. 115"
+            },
+            {
+                "id": 6,
+                "name": "Allegro",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/06+-+Brahms+Quintet+-+Allegro.mp3"
+            },
+            {
+                "id": 7,
+                "name": "Sfio",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/07+-+Brahms+Quintet-Adagio.mp3"
+            },
+            {
+                "id": 8,
+                "name": "Andantino - Presto non assai, ma con sentimento",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/08+-+Brahms+Quintet-Andantino.mp3"
+            },
+            {
+                "id": 9,
+                "name": "Con Moto - Un poco meno mosso",
+                "sampleUrl": "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Brahms-Webern/Brahms-Webern+Preview+MP3s/09+-+Brahms+Quintet+-+Con+Moto.mp3"
             }
+
         ],
         "reviews": [
             {
@@ -386,27 +682,33 @@
         "tracks": [
             {
                 "id": 1,
-                "name": "Sylvano Bussotti: Basso Sensitivo"
+                "name": "Sylvano Bussotti: Basso Sensitivo",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/01+-+Sensitivo+(1959+-Sylvano+Bussotti.mp3"
             },
             {
                 "id": 2,
-                "name": "Leonard Rosenman: Bass Concerto - Chamber Music IV"
+                "name": "Leonard Rosenman: Bass Concerto - Chamber Music IV",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/02+-+Bass+Concerto+Chamber+Music+4+(L.+Rosenman).mp3"
             },
             {
                 "id": 3,
-                "name": "Robert Ceely: Hymn for Cello and Bass"
+                "name": "Robert Ceely: Hymn for Cello and Bass",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/03+-+Hymn+(R.+Ceely).mp3"
             },
             {
                 "id": 4,
-                "name": "Iannis Xenakis: Morsima - Amorsima"
+                "name": "Iannis Xenakis: Morsima - Amorsima",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/04+-+Morisma-Amorisma+(Xenakis).mp3"
             },
             {
                 "id": 5,
-                "name": "Robert Ceely: Logs for Two Double Basses"
+                "name": "Robert Ceely: Logs for Two Double Basses",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/05+-+Logs+(Ceely).mp3"
             },
             {
                 "id": 6,
-                "name": "Mauricio Kagel: Sonant for Guitar, Percussion and Bass"
+                "name": "Mauricio Kagel: Sonant for Guitar, Percussion and Bass",
+                "sampleUrl" : "https://s3-us-west-2.amazonaws.com/vaudio.davidkrystall.com/vivace_sound_files/Basso+Profundo/Basso+Profundo+Preview+MP3s/06+-+Sonant+(M.+Kagel).mp3"
             }
 
         ],
@@ -645,223 +947,5 @@
                 "text": ""
             }
         ]
-    },
-    {
-        "id": 9,
-        "cd_name": "Peter Serkin - JS Bach",
-        "image_url": "img/albums/8808Cover.gif",
-        "itunes": "https://itunes.apple.com/us/album/arthur-gleghorn-art-gleghorn/id815792227",
-        "description": "Peter Serkin plays bach",
-        "buy_link": "http://ww9.aitsafe.com/cf/add.cfm?userid=B195497&product=Peter+Serkin+-+JS+Bach&price=16.99",
-        "viv_no": "VIV 8808",
-        "cast": [
-            {
-                "name": "Peter Serkin",
-                "role": "Piano"
-            }
-        ],
-        "tracks": [
-            {
-                "id": null,
-                "name": "Disc One"
-            },
-            {
-                "id": null,
-                "name": "Lute-Cembalo Suit in C Minor"
-            },
-            {
-                "id": 1,
-                "name": "Prelude"
-            },
-            {
-                "id": 2,
-                "name": "Fugue"
-            },
-            {
-                "id": 3,
-                "name": "Sarabande"
-            },
-            {
-                "id": 4,
-                "name": "Gigue - Double"
-            },
-            {
-                "id": null,
-                "name": "Partita No. 6 in E Minor"
-            },
-            {
-                "id": 5,
-                "name": "Toccata"
-            },
-            {
-                "id": 6,
-                "name": "Allemande"
-            },
-            {
-                "id": 7,
-                "name": "Correntea"
-            },
-            {
-                "id": 8,
-                "name": "Air"
-            },
-            {
-                "id": 9,
-                "name": "Sarabande"
-            },
-            {
-                "id": 10,
-                "name": "Tempo di gavotta"
-            },
-            {
-                "id": 11,
-                "name": "Gigue"
-            },
-            {
-                "id": null,
-                "name": "Disc Two"
-            },
-            {
-                "id": null,
-                "name": "Goldberg Vatiations"
-            },
-            {
-                "id": 1,
-                "name": "Aria"
-            },
-            {
-                "id": 2,
-                "name": "Variatio 1"
-            },
-            {
-                "id": 3,
-                "name": "Variatio 2"
-            },
-            {
-                "id": 4,
-                "name": "Variato 3 Canone all' Unisuono"
-            },
-            {
-                "id": 5,
-                "name": "Variatio 4"
-            },
-            {
-                "id": 6,
-                "name": "Variatio 5"
-            },
-            {
-                "id": 7,
-                "name": "Variatio 6 Canone alla Seconda"
-            },
-            {
-                "id": 8,
-                "name": "Variatio 7"
-            },
-            {
-                "id": 9,
-                "name": "Variatio 8"
-            },
-            {
-                "id": 10,
-                "name": "Variatio 9 alla Terza."
-            },
-            {
-                "id": 11,
-                "name": "Variatio 10 Fuegetta"
-            },
-            {
-                "id": 12,
-                "name": "Variatio 11"
-            },
-            {
-                "id": 13,
-                "name": "Variatio 12 Canone alla Quarta"
-            },
-            {
-                "id": 14,
-                "name": "Variatio 13"
-            },
-            {
-                "id": 15,
-                "name": " Variatio 14"
-            },
-            {
-                "id": 16,
-                "name": "Variatio 15 Canone alla Quinta"
-            },
-            {
-                "id": 17,
-                "name": "Variatio 16 Ouverture"
-            },
-            {
-                "id": 18,
-                "name": "Variatio 17"
-            },
-            {
-                "id": 19,
-                "name": "Variatio 18 Canone alla Sexta"
-            },
-            {
-                "id": 20,
-                "name": "Variatio 19"
-            },
-            {
-                "id": 21,
-                "name": "Variation 20"
-            },
-            {
-                "id": 22,
-                "name": "Variatio 21 Canone alla Settinma"
-            },
-            {
-                "id": 23,
-                "name": "Variatio 22"
-            },
-            {
-                "id": 24,
-                "name": "Variatio 23"
-            },
-            {
-                "id": 25,
-                "name": "Variatio 24 Canone all' Ottava"
-            },
-            {
-                "id": 26,
-                "name": "Variatio 25"
-            },
-            {
-                "id": 27,
-                "name": "Variatio 26"
-            },
-            {
-                "id": 28,
-                "name": "Variatio 27 Canone alla Nona"
-            },
-            {
-                "id": 29,
-                "name": "Variatio 28"
-            },
-            {
-                "id": 30,
-                "name": "Variatio 29"
-            },
-            {
-                "id": 31,
-                "name": "Variatio 30 Quodlibet"
-            },
-            {
-                "id": 32,
-                "name": "Aria"
-            }
-
-        ],
-        "reviews": [
-            {
-                "id": 1,
-                "by": "",
-                "text": ""
-            }
-        ]
     }
-    
 ]    
